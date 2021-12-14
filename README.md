@@ -1,4 +1,4 @@
-## Olá visitante!!! 
+## Olá! 
  <div>
   <a href="https://github.com/viniciusamirat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusamirat&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
