@@ -1,7 +1,6 @@
 ## Bem-vindo! 
  <div>
- Olá! Sou Vinícius Amirat, um aspirante a Analista de Dados.
- 
+ Olá! Sou Vinícius Amirat, um aspirante a Analista de Dados.<br>
 
  Desenvolvo projetos de análise de dados utilizando SQL Server e Power BI.
  
