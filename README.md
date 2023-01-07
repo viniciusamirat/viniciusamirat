@@ -11,10 +11,11 @@ Olá! Sou Vinícius Amirat, um aspirante a Analista de Dados.
 
 Desenvolvo projetos de análise de dados utilizando SQL Server e Power BI.
 
+**Últimos projetos:** 
+- [Vendas AdventureWorks2017](https://github.com/viniciusamirat/)
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/power-bi/power-bi.png"></code>
 
 📈 Meus dados do GitHub
 
