@@ -1,11 +1,5 @@
 ## Bem-vindo! 
  <div>
- Olá! Sou Vinícius Amirat, um aspirante a Analista de Dados.<br><br>
-
- Desenvolvo projetos de análise de dados utilizando SQL Server e Power BI.
- 
- **Últimos projetos:** 
- - [AdventureWorks2017](https://github.com/viniciusamirat/Vendas-AdventureWorks2017)
  
   <a href="https://github.com/viniciusamirat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusamirat&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
