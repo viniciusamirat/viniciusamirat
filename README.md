@@ -1,4 +1,4 @@
-**Hi! **
+**Hi!**
 
 * * *
 
@@ -8,6 +8,7 @@
 <!--<img align="left" height="20" src="https://raw.githubusercontent.com/viniciusamirat/viniciusamirat/main/images/typescript.png">-->
 <img align="left" height="20" src="https://raw.githubusercontent.com/viniciusamirat/viniciusamirat/main/images/nodejs.png">
 <!--<img align="left" height="20" src="https://raw.githubusercontent.com/viniciusamirat/viniciusamirat/main/images/react.png">-->
+<br>
 
   ##
  
