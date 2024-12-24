@@ -1,7 +1,3 @@
-**Welcome!**
-
-* * *
-
 **Languages and tools:**
 
 <img align="left" height="20" src="https://raw.githubusercontent.com/viniciusamirat/viniciusamirat/main/images/javascript.png">
